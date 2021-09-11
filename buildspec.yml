@@ -3,9 +3,9 @@ version: 0.2
 env:
   secrets-manager:
     LOGIN: SonarCredentials:sonartoken
-    HOST: https://sonarcloud.io/projects?sort=name:host
-    Organization: suniluser:organization
-    Project: UserMS_ProductManager:projectKey
+    HOST: SonarCredentials:host
+    Organization: SonarCredentials:organization
+    Project: SonarCredentials:projectKey
 
 phases:
   install:
