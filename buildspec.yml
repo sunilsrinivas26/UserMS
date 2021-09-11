@@ -5,7 +5,7 @@ env:
     LOGIN: SonarCredentials:sonartoken
     HOST: SonarCredentials:host
     Organization: SonarCredentials:organization
-    Project: SonarCredentials:projectKey
+    Project: UserMS_ProductManager:projectKey
 
 phases:
   install:
