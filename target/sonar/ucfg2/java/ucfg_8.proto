@@ -1,0 +1,240 @@
+
+∫com.infosys.infymarket.product.controller.ProductController#updateProductStock(Lcom/infosys/infymarket/product/entity/Product;Ljava/lang/String;)Lorg/springframework/http/ResponseEntity;g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau# u(5"startingBlock*≤ 
+startingBlockg
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau5 u(ps
+q
+
+__unknown_file (
+%11"__id*H*F
+8
+product-com.infosys.infymarket.product.entity.Product"
+
+categoryv
+t
+
+__unknown_file (
+%12"__id*K*I
+8
+product-com.infosys.infymarket.product.entity.Product"
+descriptionp
+n
+
+__unknown_file (
+%13"__id*E*C
+8
+product-com.infosys.infymarket.product.entity.Product"
+imageq
+o
+
+__unknown_file (
+%14"__id*F*D
+8
+product-com.infosys.infymarket.product.entity.Product"
+prodidv
+t
+
+__unknown_file (
+%15"__id*K*I
+8
+product-com.infosys.infymarket.product.entity.Product"
+productnames
+q
+
+__unknown_file (
+%16"__id*H*F
+8
+product-com.infosys.infymarket.product.entity.Product"
+
+selleridv
+t
+
+__unknown_file (
+%17"__id*K*I
+8
+product-com.infosys.infymarket.product.entity.Product"
+subcategory¡
+æ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau6 u(B
+%18"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%11À
+»
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauK u(RF
+8
+product-com.infosys.infymarket.product.entity.Product"
+
+category"__annotation*
+
+%18¡
+æ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau6 u(B
+%19"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%14…
+∆
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauK u(RD
+8
+product-com.infosys.infymarket.product.entity.Product"
+prodid"__annotation*
+
+%19¡
+æ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau6 u(B
+%20"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%16À
+»
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauK u(RF
+8
+product-com.infosys.infymarket.product.entity.Product"
+
+sellerid"__annotation*
+
+%20¡
+æ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau6 u(B
+%21"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%13»
+≈
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauK u(RC
+8
+product-com.infosys.infymarket.product.entity.Product"
+image"__annotation*
+
+%21¡
+æ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau6 u(B
+%22"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%17Œ
+À
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauK u(RI
+8
+product-com.infosys.infymarket.product.entity.Product"
+subcategory"__annotation*
+
+%22¡
+æ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau6 u(B
+%23"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%12Œ
+À
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauK u(RI
+8
+product-com.infosys.infymarket.product.entity.Product"
+description"__annotation*
+
+%23¡
+æ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javau6 u(B
+%24"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%15Œ
+À
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauK u(RI
+8
+product-com.infosys.infymarket.product.entity.Product"
+productname"__annotation*
+
+%24◊
+‘
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javauT u(a
+%25"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*
+
+prodidjava.lang.Stringü
+ú
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javaui u(o
+prodidjava.lang.String"__annotation*
+
+%25*
+7*â
+5g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javax x(8"ö
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javax x(8/
+-
+%3'org.springframework.http.ResponseEntity*¡
+6g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javaw	 w(O‰
+·
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javaw	 w(O9
+products-com.infosys.infymarket.product.entity.Product"__id*5
+3
+%1-com.infosys.infymarket.product.entity.Product•
+¢
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javax) x(6)
+%2#org.springframework.http.HttpStatus"__id*
+""ƒ¡
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javax x(-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntity˜
+Ù
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javax
+ x(7
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*;
+9
+products-com.infosys.infymarket.product.entity.Product*+
+)
+%2#org.springframework.http.HttpStatus*
+5*…
+7g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javaw w(*Ñ
+Å
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javaw w(*;
+%05com.infosys.infymarket.product.service.ProductService"__id*S*Q=
+;com.infosys.infymarket.product.controller.ProductController"
+productserviceŒÀ
+g
+]D:/fa4/product/src/main/java/com/infosys/infymarket/product/controller/ProductController.javaw w(N3
+%1-com.infosys.infymarket.product.entity.Product"∫com.infosys.infymarket.product.service.ProductService#updateProductStock(Lcom/infosys/infymarket/product/entity/Product;Ljava/lang/String;)Lcom/infosys/infymarket/product/entity/Product;*=
+;
+%05com.infosys.infymarket.product.service.ProductService*:
+8
+product-com.infosys.infymarket.product.entity.Product*
+
+prodidjava.lang.String2UupdateProductStock(Lcom/infosys/infymarket/product/entity/Product;Ljava/lang/String;)*
+6:8
+product-com.infosys.infymarket.product.entity.Product:
+prodidjava.lang.StringB?=
+;com.infosys.infymarket.product.controller.ProductController

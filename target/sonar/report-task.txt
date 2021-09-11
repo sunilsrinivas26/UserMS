@@ -1,0 +1,7 @@
+organization=suniluser
+projectKey=UserMS_ProductManager
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=UserMS_ProductManager
+ceTaskId=AXvJVmwPPHEC-AA0sjVo
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvJVmwPPHEC-AA0sjVo
